@@ -1,2 +1,2 @@
 # CA-Comparisons
-Appendices for the paper “Covering Array Constructors: An Experimental Analysis of Their Interaction Coverage and Fault Detection”
+Appendices for our paper “Covering Array Constructors: An Experimental Analysis of Their Interaction Coverage and Fault Detection” that has been accepted by The Computer Journal.
